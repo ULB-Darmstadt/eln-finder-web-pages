@@ -5,13 +5,13 @@
 #### Editors
 
 *   **Beatrix Adam [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-8431-6613 "https://orcid.org/0000-0002-8431-6613")**, ZB MED – Informationszentrum Lebenswissenschaften, Köln
-*   **Adam Basha**, Karlsruher Institut für Technologie (KIT), Karlsruhe
+*   **Adam Basha [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0001-8089-8508 "https://orcid.org/0000-0001-8089-8508")**, Karlsruher Institut für Technologie (KIT), Karlsruhe
 *   **Michael Cop**, Deutsches Krebsforschungszentrum in der Helmholtz-Gemeinschaft, Heidelberg
 *   **Catriona Eschke [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-1033-144X "https://orcid.org/0000-0002-1033-144X")**, Helmholtz-Zentrum Hereon, Geesthacht
 *   **Corinna Feeken [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-2805-6474 "https://orcid.org/0000-0002-2805-6474")**, Carl von Ossietzky Universität Oldenburg, Oldenburg
 *   **Bernhard Frankenberger**, Helmholtz Zentrum München, München
 *   **Dorit Jerger [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-9546-3352 "https://orcid.org/0000-0002-9546-3352")**, Forschungszentrum Jülich, Jülich
-*   **Nicole Jung** , Karlsruher Institut für Technologie (KIT), Karlsruhe
+*   **Nicole Jung [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0001-9513-2468 "https://orcid.org/0000-0001-9513-2468")** , Karlsruher Institut für Technologie (KIT), Karlsruhe
 *   **Carolin Leister[<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-6940-0024 "https://orcid.org/0000-0002-6940-0024")**, Karlsruher Institut für Technologie (KIT), Karlsruhe
 *   **Birte Lindstädt [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-8251-1597 "https://orcid.org/0000-0002-8251-1597")**, ZB MED – Informationszentrum Lebenswissenschaften, Köln
 *   **Florian Rhiem [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0001-6461-9433 "https://orcid.org/0000-0001-6461-9433")**, Forschungszentrum Jülich, Jülich
