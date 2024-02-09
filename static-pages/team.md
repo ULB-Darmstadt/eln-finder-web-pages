@@ -26,6 +26,7 @@
 *   **Dr. Ahmed Mansour [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-3411-6808 "https://orcid.org/0000-0002-3411-6808")**, FAIRmat – Area F, IRIS Humboldt Universität zu Berlin
 *   **Hanna Müller-Landau**, quattro research GmbH, Planegg-Martinsried
 *   **Dr. Markus Scheidgen**, FAIRmat/NOMAD Lab, IRIS Humboldt Universität zu Berlin
+*   **Abraham Wang**, CDD, USA
 
 #### Technical Staff
 
