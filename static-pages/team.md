@@ -15,8 +15,7 @@
 *   **Carolin Leister[<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-6940-0024 "https://orcid.org/0000-0002-6940-0024")**, Karlsruher Institut für Technologie (KIT), Karlsruhe
 *   **Birte Lindstädt [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-8251-1597 "https://orcid.org/0000-0002-8251-1597")**, ZB MED – Informationszentrum Lebenswissenschaften, Köln
 *   **Florian Rhiem [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0001-6461-9433 "https://orcid.org/0000-0001-6461-9433")**, Forschungszentrum Jülich, Jülich
-*   **Thomas Rose [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-8186-3566 "https://orcid.org/0000-0002-8186-3566")**, Goethe Universität Frankfurt, Institut für Geowissenschaften, Frankfurt
-*   **Nina Ruffing [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0003-0937-7165 "https://orcid.org/0000-0003-0937-7165")**, ZB MED – Informationszentrum Lebenswissenschaften, Köln
+*   **Tilman Brodmeier [<span class="orcid-text"> ORCID</span>](https://orcid.org/0009-0002-9441-0838 "https://orcid.org/0009-0002-9441-0838")**, wega Informatik AG, Basel
 
 #### Contributors
 
@@ -27,6 +26,8 @@
 *   **Hanna Müller-Landau**, quattro research GmbH, Planegg-Martinsried
 *   **Dr. Markus Scheidgen**, FAIRmat/NOMAD Lab, IRIS Humboldt Universität zu Berlin
 *   **Abraham Wang**, CDD, USA
+*   **Charles Girardot [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0003-4301-3920  "https://orcid.org/0000-0003-4301-3920")**, European Molecular Biology Laboratory, Heidelberg
+*   **Hanna Tsybenko**, Forschungszentrum Juelich GmbH, Juelich
 
 #### Technical Staff
 

@@ -34,7 +34,7 @@ An electronic lab notebook (ELN) is a specialized software for:
   - the metadata/description of the data generated in the experiment and, if applicable, the files (or links to them) and inferences related to it
 - the long term preservation and access of all this information in compliance with long-term archival criteria
 
-Orientation along Categorisation (Dirnagl, Przesdzing: A pocket guide to electronic laboratory notebooks in the academic life sciences, https://f1000research.com/articles/5-2/v1#SM1): The first category, pure recording systems such as Evernote, were not included. Included are primarily systems for data recording in the laboratory (e.g. Labfolder plugin with ELN functionalities) and LIMS (Laboratory Inventory Management Systems). For data management systems, we cover only the ELN components. 
+Orientation along Categorisation (Dirnagl, Przesdzing: A pocket guide to electronic laboratory notebooks in the academic life sciences, https://f1000research.com/articles/5-2/v1#SM1): The first category, pure recording systems such as Evernote, were not included. Included are primarily systems for data recording in the laboratory (e.g. Labfolder plugin with ELN functionalities) and LIMS (Laboratory Inventory Management Systems, more information about LIMS systems see https://www.lims.de/). For data management systems, we cover only the ELN components. 
 
 
 ### Which sources were used for the compilation of the ELN metadata? 

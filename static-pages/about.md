@@ -36,7 +36,7 @@ Contact E-Mail: [[✉️eln_finder_mailingliste@listserv...]](mailto:eln_finder
   
 ### The following ELN tools are still to be added:
 ---
-BrightLab, Docollab, Dotmatics, ecLabNote, eNovalys, Exemplar, FindMolecule, KineMatik, LabCloud, Labii, LabLog, LabVantage, MBook, Perkin Elmer Signals, Pillar Science, PerkinElmer E-Notebook, Riffyn, Scilligence
+BrightLab, Docollab, Dotmatics, ecLabNote, eNovalys, Exemplar, FindMolecule, KineMatik, LabCloud, LabLog, LabVantage, MBook, Perkin Elmer Signals, Pillar Science, PerkinElmer E-Notebook, Riffyn, Scilligence
 
 If you know of any other ELNs that are not listed in the ELN Finder or this wish list, we would appreciate hearing about them.
 
