@@ -22,10 +22,10 @@
 *   **Nico Brandt [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-3860-1376 "https://orcid.org/0000-0002-3860-1376")**, Karlsruher Institut für Technologie (KIT), Karlsruhe
 *   **Charles Girardot, PhD [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0003-4301-3920  "https://orcid.org/0000-0003-4301-3920")**, European Molecular Biology Laboratory, Heidelberg
 *   **Fabrice Jourdan**, MESTRELAB RESEARCH S.L., E-Santiago de Compostela 
-*   **Dr. Samantha Kanza [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-4831-9489 "https://orcid.org/0000-0002-4831-9489")**, University of Southampton
+*   **Dr. Samantha Kanza [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-4831-9489 "https://orcid.org/0000-0002-4831-9489")**, University of Southampton, United Kingdom
 *   **Dr. Jakob J. Lopez**, Signals GmbH & Co. KG, Frankfurt am Main
-*   **Hanna Müller-Landau**, quattro research GmbH, Planegg-Martinsried
 *   **Dr. Ahmed Mansour [<span class="orcid-text"> ORCID</span>](https://orcid.org/0000-0002-3411-6808 "https://orcid.org/0000-0002-3411-6808")**, FAIRmat – Area F, IRIS Humboldt Universität zu Berlin
+*   **Hanna Müller-Landau**, quattro research GmbH, Planegg-Martinsried
 *   **Dr. Markus Scheidgen**, FAIRmat/NOMAD Lab, IRIS Humboldt Universität zu Berlin
 *   **Hanna Tsybenko**, Forschungszentrum Jülich GmbH, Jülich
 *   **Fredrik Wallner**, Konsult Wallner AB, Sweden
